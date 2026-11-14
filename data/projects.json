@@ -1936,7 +1936,6 @@
     "name": "kwant",
     "repo": "alexsergivan/kwant",
     "category": "Agents and Automation",
-    "description": "Team of AI agents with spaces, handoffs, approvals and routines in one self-hosted Rust binary.",
-    "rising": true
+    "description": "Team of AI agents with spaces, handoffs, approvals and routines in one self-hosted Rust binary."
   }
 ]
